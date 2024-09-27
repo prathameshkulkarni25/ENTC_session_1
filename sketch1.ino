@@ -1,7 +1,7 @@
 #define A0 5
 #define D0 6 
 
-int analog;
+// int analog; 
 int digital; 
 
 void setup()
